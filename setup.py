@@ -7,9 +7,9 @@ setup(
     name="fastdsd",
     version=1,
     description="FastDSD",
-    author="Enrico Maiorino",
-    license="GPLv2",
-    url="https://github.com/reemagit/DSD",
+    author="Samuel Sledzieski",
+    license="MIT",
+    url="https://github.com/samsledje/fastDSD",
     packages=find_packages(),
     entry_points={
         "console_scripts": [
