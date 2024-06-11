@@ -3,6 +3,8 @@ Combining DSD (Cao et al. [2013](https://journals.plos.org/plosone/article?id=10
 
 ## Installation
 
-`git clone git@github.com:samsledje/fastDSD.git`
-`cd fastDSD`
-`pip install .`
+```bash
+git clone git@github.com:samsledje/fastDSD.git
+cd fastDSD
+pip install .
+```
