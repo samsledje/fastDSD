@@ -88,7 +88,7 @@ def main():
     temp = "parses PPIs from infile and calculates DSD"
     parser = argparse.ArgumentParser(description=temp)
 
-    parser.add_argument("infile", help="read PPIs from tab-delimited edge list (with optional weights")
+    parser.add_argument("infile", help="read PPIs from tab-delimited edge list (with optional weights)")
     parser.add_argument("--converge",
                         default=False, help="calculate converged DSD",
                         action="store_true")
