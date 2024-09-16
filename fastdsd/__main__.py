@@ -210,7 +210,7 @@ def main():
         print(sStar,file=sys.stderr)
     if not isConnected and not options.force:
         print(sStar,file=sys.stderr)
-        print("!!!!!!! Warnning: the network is not connected, !!!!!!!!",file=sys.stderr)
+        print("!!!!!!! Warning: the network is not connected, !!!!!!!!",file=sys.stderr)
         print("****** calculate for the largest component instead *****",file=sys.stderr)
         print(sStar,file=sys.stderr)
 
